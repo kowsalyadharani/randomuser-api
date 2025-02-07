@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.profiles-container{
+  display: flex;
+
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.profile{
+  
+  height:auto;
+  width:auto;
+  border-style: solid;
+}
